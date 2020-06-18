@@ -1,0 +1,7 @@
+C:\Users\vinchi\Desktop\прога\ооп5\видеоурок\videourok\videourok\bin\Debug\videourok.exe.config
+C:\Users\vinchi\Desktop\прога\ооп5\видеоурок\videourok\videourok\bin\Debug\videourok.exe
+C:\Users\vinchi\Desktop\прога\ооп5\видеоурок\videourok\videourok\bin\Debug\videourok.pdb
+C:\Users\vinchi\Desktop\прога\ооп5\видеоурок\videourok\videourok\obj\Debug\videourok.csprojAssemblyReference.cache
+C:\Users\vinchi\Desktop\прога\ооп5\видеоурок\videourok\videourok\obj\Debug\videourok.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\Desktop\прога\ооп5\видеоурок\videourok\videourok\obj\Debug\videourok.exe
+C:\Users\vinchi\Desktop\прога\ооп5\видеоурок\videourok\videourok\obj\Debug\videourok.pdb
